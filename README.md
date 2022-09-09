@@ -4,11 +4,8 @@
 This project was built by me using HTML, CSS and JS. It will be added to my portfolio showcase as one of my projects.
 
 
-[Live GitHub Deployment](https://twitter-clone-horatio.herokuapp.com/)
 
-
-![Desktop](../../Pictures/Screenshots/tip-calculator.png)
-
+![Desktop View](https://user-images.githubusercontent.com/78431899/189451767-24e9416d-87c3-4bc0-9a55-feb9ff06ac6f.png)
 
 ## Technologies Used
 * HTML

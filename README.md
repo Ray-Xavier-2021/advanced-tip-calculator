@@ -4,6 +4,8 @@
 This project was built by me using HTML, CSS and JS. It will be added to my portfolio showcase as one of my projects.
 
 
+[Live Repl Deployment](https://fork-this-javascript-course-by-clever-programmer.ray-xavier-2021.repl.co/projects/tip-calculator/exercise/index.html)
+
 
 ![Desktop View](https://user-images.githubusercontent.com/78431899/189451767-24e9416d-87c3-4bc0-9a55-feb9ff06ac6f.png)
 
